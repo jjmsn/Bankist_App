@@ -6,6 +6,8 @@ Password: 1111
 User: jd <br/>
 Password: 2222
 
+---
+
 Simulates a banking experience.
 
 Features include:
