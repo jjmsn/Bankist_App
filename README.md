@@ -18,3 +18,7 @@ Features include:
 * Close account
 * Intl, Dates, Timers
 * Sorting lists
+
+---
+
+This project was completed as part of a comprehensive programming course created by Jonas Schmedtmann. 
