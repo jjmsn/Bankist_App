@@ -19,7 +19,7 @@ Features include:
 * Request a loan
 * Close account
 * Intl, Dates, Timers
-* Sorting lists
+* Sorting arrays
 
 ---
 
